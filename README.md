@@ -12,3 +12,5 @@ SAMPLE
 [(-5.0,3.0), (2.0,6.0), (-3.5,-3.0), (6.0,-5.0)]
 
 f(x)= (-337.0/2926.0)x^3 + (331.0/5852.0)x^2 + (1162.0/417.0)x^1 + (469.0/418.0)x^0
+
+![alt text](https://github.com/erb13020/LagrangeInterpolation/output.jpg)
