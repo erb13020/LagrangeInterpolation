@@ -13,4 +13,6 @@ SAMPLE
 
 f(x)= (-337.0/2926.0)x^3 + (331.0/5852.0)x^2 + (1162.0/417.0)x^1 + (469.0/418.0)x^0
 
+![output1](https://user-images.githubusercontent.com/44654548/57259134-87291800-702c-11e9-9485-ad7a9fc6933d.jpg)
+
 ![output](https://user-images.githubusercontent.com/44654548/57259056-4fba6b80-702c-11e9-952c-e801584d728b.jpg)
